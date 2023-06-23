@@ -1,0 +1,158 @@
+﻿^contentpage {
+    background-color: #2d2f36;
+}
+
+.but1 {
+    background-color: #449c47;
+    color: white;
+    border-radius: 25;
+    margin: 10, 10;
+    padding: 14 30;
+}
+
+.but2 {
+    background-color: #3a8038;
+    color: white;
+    border-radius: 25;
+    margin: 10, 10;
+    padding: 14 30;
+}
+
+.but3 {
+    background-color: #2f6d2e;
+    color: white;
+    border-radius: 25;
+    margin: 10, 10;
+    padding: 14 20;
+}
+
+.but4 {
+    background-color: #efefef;
+    color: black;
+    border-radius: 25;
+    margin: 10, 10;
+    padding: 14 20;
+}
+
+.but5 {
+    background-color: #eeeeee;
+    color: black;
+    border-radius: 25;
+    margin: 10, 10;
+    padding: 14 20;
+}
+
+.but6 {
+    background-color: #e0e0e0;
+    color: black;
+    border-radius: 25;
+    margin: 10, 10;
+    padding: 14 20;
+}
+
+.but7 {
+    background-color: #efefef;
+    color: black;
+    border-radius: 25;
+    margin: 10, 10;
+    padding: 14 20;
+    border-color: black;
+}
+
+.but8 {
+    background-color: #eeeeee;
+    color: black;
+    border-radius: 25;
+    margin: 10, 10;
+    padding: 14 20;
+    border-color: black;
+}
+
+.but9 {
+    background-color: #e0e0e0;
+    color: black;
+    border-radius: 25;
+    margin: 10, 10;
+    padding: 14 20;
+    border-color: black;
+}
+
+.vid {
+    background-color: #439e44;
+    border-block-color: black;
+    border-color: black;
+    padding: 14 30;
+}
+
+.r1 {
+    color: #f84e49;
+}
+
+.r2 {
+    color: #f84e49;
+    border-color: white;
+}
+
+.r3 {
+    color: #f84e49;
+}
+
+.r7 {
+    color: #312930;
+    flood-color: #f63c58;
+}
+
+.r8 {
+    color: #312930;
+    flood-color: #f63c58;
+}
+
+.r9 {
+    color: #312930;
+    flood-color: #f63c58;
+}
+
+.r4 {
+    color: #f2f2f2;
+}
+
+.r5 {
+    color: #f2f2f2;
+}
+
+.r6 {
+    color: #f2f2f2;
+}
+
+.r10 {
+    color: #2b2a2f;
+}
+
+.r11 {
+    color: #2b2a2f;
+}
+
+.r12 {
+    color: #2b2a2f;
+    text-shadow: initial;
+}
+
+.sl1 {
+    color: #499d4a;
+}
+
+.sl2 {
+    color: #499d4a;
+}
+
+.sl3 {
+    color: #499d4a;
+}
+
+.rad1 {
+    background-color: #d65155;
+}
+
+.rad2 {
+    color: #ffedf7;
+}
